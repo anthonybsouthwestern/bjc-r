@@ -41,6 +41,9 @@ llab.alt_topic_page = llab.rootURL + "topic/topic.html";
 llab.empty_curriculum_page_path = llab.llab_path + "html/empty-curriculum-page.html";
 
 
+llab.CORSCompliantServers.push("anthonybsouthwestern.github.io");
+
+
 // google analytics tokens
 llab.GACode = 'UA-47210910-3';
 llab.GAurl  = document.hostname;
