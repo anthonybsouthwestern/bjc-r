@@ -37,20 +37,20 @@ heading: Making your own blocks
 
 
 
-heading: Building complicated blocks with simple blocks
-  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?4]
-  resource: Building with custom blocks: your first flower [/bjc-r/cur/programming/functions/intro/composing-blocks.html]
-  //quiz: TODO practice  composing functions (1/2 of Jessica's previous quiz?)
-  quiz: Composing with "buggy" blocks [/bjc-r/cur/programming/functions/intro/buggy-house-and-square.html]
-  resource: Draw a flower [/bjc-r/cur/programming/functions/intro/draw-a-flower.html]
+//heading: Building complicated blocks with simple blocks
+// resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?4]
+//  resource: Building with custom blocks: your first flower [/bjc-r/cur/programming/functions/intro/composing-blocks.html]
+//  //quiz: TODO practice  composing functions (1/2 of Jessica's previous quiz?)
+//  quiz: Composing with "buggy" blocks [/bjc-r/cur/programming/functions/intro/buggy-house-and-square.html]
+//  resource: Draw a flower [/bjc-r/cur/programming/functions/intro/draw-a-flower.html]
 
 
-heading: Using randomness
-  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?5]
-  resource: The random block [/bjc-r/cur/programming/random/the-random-block.html]
-  resource: Moving a sprite randomly around the screen  [/bjc-r/cur/programming/random/randomly-moving-character.html]
-  quiz: Understanding The Random Block [/bjc-r/cur/programming/random/Test-Yourself-random.html]
-  resource: Draw a field of flowers [/bjc-r/cur/programming/functions/draw-field-of-flowers.html]
+//heading: Using randomness
+//  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?5]
+//  resource: The random block [/bjc-r/cur/programming/random/the-random-block.html]
+//  resource: Moving a sprite randomly around the screen  [/bjc-r/cur/programming/random/randomly-moving-character.html]
+//  quiz: Understanding The Random Block [/bjc-r/cur/programming/random/Test-Yourself-random.html]
+//  resource: Draw a field of flowers [/bjc-r/cur/programming/functions/draw-field-of-flowers.html]
 
 
   resource: Submit on Moodle [/bjc-r/cur/programming/guides/submit-on-moodle.html]
