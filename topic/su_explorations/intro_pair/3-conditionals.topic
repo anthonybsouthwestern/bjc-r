@@ -38,7 +38,7 @@ heading: Practice with Predicates
 
 heading: Number Guessing
   resource: Number Guessing [/bjc-r/cur/programming/conditionals/number-guessing-game-v1-0.html]
-  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?4]
+//  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?4]
   resource: More number guessing [/bjc-r/cur/programming/conditionals/number-guessing-game-v2-0.html]
 //  resource: Tamagotchi [/bjc-r/cur/programming/conditionals/tamagotchi.html]
 
