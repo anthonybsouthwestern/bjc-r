@@ -33,7 +33,7 @@ heading: Practice with Predicates
   resource: Solutions to >= [/bjc-r/cur/programming/conditionals/ge-soln.html]
   resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?3]
   resource: Practice: Between [/bjc-r/cur/programming/functions/predicates/predicates-make-a-between-block.html]
-  resource: Practice with complex booleans [/bjc-r/cur/programming/conditionals/complex-booleans-practice.html]
+//  resource: Practice with complex booleans [/bjc-r/cur/programming/conditionals/complex-booleans-practice.html]
 
 
 heading: Number Guessing
