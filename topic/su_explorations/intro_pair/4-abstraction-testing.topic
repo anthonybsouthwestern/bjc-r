@@ -1,4 +1,4 @@
-title: Functions
+title: More Reporters, Testing, and Abstraction
 {
 
 
@@ -11,7 +11,7 @@ heading: More work with reporters
 
 heading: Custom blocks make code easier to understand
   resource: Simplifying a tic-tac-toe board drawer using custom blocks [/bjc-r/cur/programming/functions/simplifying-a-tic-tac-toe-board-drawer-using-functions.html]
-    resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?1]
+  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?1]
 
   resource: Valid-Date? [/bjc-r/cur/programming/conditionals/valid-date.html]
 
