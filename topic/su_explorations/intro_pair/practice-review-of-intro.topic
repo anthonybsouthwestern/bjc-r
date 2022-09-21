@@ -1,0 +1,23 @@
+title: Reviewing Complex Booleans, Working with Multiple Sprites
+
+{
+
+heading: Practice with Complex Booleans
+
+resource: Practice with complex booleans [/bjc-r/cur/programming/conditionals/complex-booleans-practice.html]
+
+
+heading: Programs with Multiple Sprites
+
+ resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?2]
+ resource: Experiment with a short Snap<em>!</em> play [/bjc-r/cur/programming/concurrency/snap/snap-play-learn-broadcast.html]  
+ quiz: Test Yourself: Go Team! [/bjc-r/cur/programming/intro/snap/test-yourself-go-team.html]
+ quiz: Test Yourself: Different ways to broadcast [/bjc-r/cur/programming/concurrency/snap/quiz-different-ways-to-broadcast.html]
+ resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?4]
+ resource: More "Message" Passing [/bjc-r/cur/programming/concurrency/snap/more-message-passing.html]
+ resource: Global Variables [/bjc-r/cur/programming/variables/global-variables.html]
+
+resource: Submit on Moodle [/bjc-r/cur/programming/guides/submit-on-moodle.html]
+
+
+}
