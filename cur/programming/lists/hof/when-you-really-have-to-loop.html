@@ -5,7 +5,7 @@
         <script src="/bjc-r/llab/loader.js"></script>
 
         <title>
-            When you really have to loop
+            Loop it Up!
         </title>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -33,26 +33,12 @@
             <img class="indent" src="/bjc-r/img/hof/increasing-list-false-report.png" alt="increasing of (1 7 4 10) returning false">
         </div>
 
-        <p>
-            Because this is a predicate, it's tempting to try to make it use <code>keep</code>:
-        </p>
-        <img class= "indent" border="0" src="/bjc-r/img/list/hof/wannabe-increasing.png"
-        alt="report <empty? (keep items such that (<() < (???)>) from (list)"
-        title="report <empty? (keep items such that (<() < (???)>) from (list)"/>
-
-        <p>
-            But <code>map</code>, <code>keep</code>, and <code>combine</code> work when each item in a list
-            can be considered independently of the others.
-            In this problem we have to
-            consider each item <b>in relation to</b> the ones that have come before it:
-            "<i>Is this number at least as big as the ones we've already seen?</i>"
-
-        </p>
+       
         <p>
             To do this, we need to write a loop.
             The loop needs to go through the lists items, from left to right, and keep track of the last item that
             it saw.
-            But, as with <code>map</code>, we don't need to keep track of
+            We don't need to keep track of
             the specific number of where we are in the list (e.g., the third position, the first position, etc.)
             Those index numbers have nothing to do with the problem we're trying to solve.
             The solution is to use the <code>for each item</code> block, this way:
@@ -60,10 +46,7 @@
 
         <img class="indent" border="0" src="/bjc-r/img/list/hof/increasing.png" alt="definition of INCREASING? block" title="definition of INCREASING? block"/>
         <p>
-            Like the functions used as input to <code>map</code> and friends,
-            the script inside the C-shaped slot of <code>for each item</code>
-            interprets empty input slots (in the <code>&lt;</code> and <code>set</code> blocks)
-            as placeholders into which an item of the list will be entered.
+            
             <code>For each item</code> promises to go through the list starting with item <code>1</code> and continuing in sequence to the end of the list. We use a script variable <code>minimum</code> to remember the most recent item's value, which is the
             minimum allowable value for the next item. If any item is smaller than that
             remembered value, <code>increasing?</code> reports <code>false</code>.
@@ -82,7 +65,6 @@
 
         <p>You can work with the above script <a class="run" href="/bjc-r/prog/loop/increasing.xml">here</a>.</p>
 
-        <h2>Try these</h2>
 
         <p class="step">
             <b>Try this:</b>
@@ -90,19 +72,6 @@
             by <img class="inline" src="/bjc-r/img/blocks/say-fragment.png" alt="say">ing each item for two seconds.
 
         </p>
-        <p class="step">
-            <b>Try this:</b> Write an <code>expand</code> reporter that takes a sentence
-            as input, and reports a sentence that's the same except
-            that each number in the input is replaced by
-            that many copies of the following word:
-            <br><br>
-            <img class="indent" border="0" src="/bjc-r/img/list/hof/she-loves-you-yeah.png"
-            alt="she loves you 3 yeah -> she loves you yeah yeah yeah"
-            title="she loves you 3 yeah -> she loves you yeah yeah yeah"/>
-            <img class="indent" border="0" src="/bjc-r/img/list/hof/i-really-like-you.png"
-            alt="i really really really really really really like you"
-            title="i really really really really really really like you"/>
-
-        </p>
+        
     </body>
 </html>
