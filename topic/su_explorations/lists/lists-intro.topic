@@ -19,14 +19,17 @@ title: Introduction to Lists
 heading: Introduction to Lists
    resource: Using the LIST block to make a list [/bjc-r/cur/programming/lists/hof/using-the-LIST-block-to-make-a-list.html]
    resource: More blocks used with lists [/bjc-r/cur/programming/lists/hof/more-blocks-about-lists.html]
-   resource: What good are lists?  [/bjc-r/cur/programming/lists/hof/what-good-are-lists.html]
-
    resource: Loop it Up! [/bjc-r/cur/programming/lists/hof/when-you-really-have-to-loop.html]
-   resource: Transforming each item of a list [/bjc-r/cur/programming/lists/hof/transforming-each-item-of-a-list.html]
-   resource: Choosing some items from a list [/bjc-r/cur/programming/lists/hof/choosing-some-items-from-a-list.html]
-   resource: Data Science 101 [/bjc-r/cur/programming/lists/hof/combining-all-the-items-of-a-list.html]
-   resource: Composing higher order functions to solve more complicated problems [/bjc-r/cur/programming/lists/hof/composing-higher-order-functions-to-solve-more-complicated-problems.html]
-   resource: More on composition of higher order functions [/bjc-r/cur/programming/lists/hof/more-on-composition-of-higher-order-functions.html]
+ 
+ 
+ // sentences stuff and data science later
+// resource: What good are lists?  [/bjc-r/cur/programming/lists/hof/what-good-are-lists.html]
+
+  // resource: Transforming each item of a list [/bjc-r/cur/programming/lists/hof/transforming-each-item-of-a-list.html]
+  // resource: Choosing some items from a list [/bjc-r/cur/programming/lists/hof/choosing-some-items-from-a-list.html]
+  // resource: Data Science 101 [/bjc-r/cur/programming/lists/hof/combining-all-the-items-of-a-list.html]
+  // resource: Composing higher order functions to solve more complicated problems [/bjc-r/cur/programming/lists/hof/composing-higher-order-functions-to-solve-more-complicated-problems.html]
+  // resource: More on composition of higher order functions [/bjc-r/cur/programming/lists/hof/more-on-composition-of-higher-order-functions.html]
 
 
 
@@ -39,5 +42,7 @@ heading: Introduction to Lists
 
 
 // assignment: (Due Later) Hangman Classic [/bjc-r/cur/programming/projects/hangman/hangman-classic.html]
+
+  resource: Submit on Moodle [/bjc-r/cur/programming/guides/submit-on-moodle.html]
 
 }
