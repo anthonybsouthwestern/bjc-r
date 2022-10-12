@@ -32,7 +32,14 @@
 </p>
 <p>List items are numbered from 1, so, for example, item 3 of the <code>nouns</code> list above is <code>pizza</code>. The first input slot accepts a number like other rounded input slots, but it also has a downward arrow that, when clicked, offers two special choices: <code>last</code> for the last item of the list, and <code>any</code> to pick an item at random.
 <p>The second input slot in the <code>item</code> block is something you haven't seen before: a rectangle with two orange smaller rectangles inside it. Just as a rounded input slot indicates that a number is expected, and a hexagonal input slot indicates that a <code>true</code> or <code>false</code> value is expected, this new kind of input slot means that a list value is expected. It's meant to look like what you see when you <b><code>say</code></b> a list: a grey (rounded) rectangle with red-orange rectangles for the individual items.
-  <p>Use the <code>item random</code> feature to make a noun phrase by choosing a random article, a random adjective, and a random noun:</p>
+
+        <br><br>
+  <p>While this lab focuses on lists of words, there are uses for lists of numbers (to keep track of your grades in this course, for example) or to represent a sprite's position as a single vector (list) containing the X and Y position numbers. And you can even use <i>lists of lists </i>for more complicated data structures:</p>
+  <p><img border="0" title="List of the list John and Lennon, the list Paul and McCartney, etc." alt="List of the list John and Lennon, the list Paul and McCartney, etc." src="/bjc-r/img/list/hof/Beatles.png" /><br><br>
+  </p>
+           <br><br>
+   
+   <p>Use the <code>item random</code> feature to make a noun phrase by choosing a random article, a random adjective, and a random noun:</p>
   <p><img border="0" src="/bjc-r/img/list/hof/nounphrase-block.png" alt="Noun phrase block, JOIN WORDS of an item from each of ARTICLES, ADJECTIVES, and NOUNS" title="Noun phrase block, JOIN WORDS of an item from each of ARTICLES, ADJECTIVES, and NOUNS" />
   </p>
   <p>Because of the random item choices, we get a different result each time we call <code>noun phrase</code>:</p>
@@ -40,11 +47,14 @@
     
   </p>
   <p><br><br><b>Try this: </b></p>
-  <p>Create blocks <code>prepositional phrase</code>, <code>verb phrase</code>, and anything else you need, ending with a <code>sentence</code> block that reports sentences like &quot;the little elephant runs excitedly around the big pizza.&quot; Can you improve on this so that the sentence structure varies, sometimes including people's names instead of article-adjective-noun phrases, for example? You might want different sentence structures for transitive and intransitive verbs. This is an open-ended project!
+   <p> First, create lists as above for <code>nouns</code>, <code>verbs</code>, <code>adjectives</code>, <code>adverbs</code>, <code>articles</code>, and 
+      <code>prepositions</code>. Each list other than articles should contain at least six different words of the appropriate type. Your articles list may
+      be idential to what is provided, but the others should differ, with words of your choosing.
+   </p>
+   <p> Then create the <code>noun phrase</code> block as shown. </p>
+  <p>Next, create blocks <code>prepositional phrase</code>, <code>verb phrase</code>, and anything else you need, ending with a <code>sentence</code> block that reports sentences like &quot;the little elephant runs excitedly around the big pizza.&quot; Can you improve on this so that the sentence structure varies, sometimes including people's names instead of article-adjective-noun phrases, for example? You might want different sentence structures for transitive and intransitive verbs. This is an open-ended project! Given the complexity of the English language, it likely won't always be perfect, and that's ok!
   </p>
-  <p>Besides lists of words, you'll find uses for lists of numbers, to keep track of your grades in this course, for example, or to represent a sprite's position as a single vector (list) containing the X and Y position numbers. And you can even use <i>lists of lists </i>for more complicated data structures:</p>
-  <p><img border="0" title="List of the list John and Lennon, the list Paul and McCartney, etc." alt="List of the list John and Lennon, the list Paul and McCartney, etc." src="/bjc-r/img/list/hof/Beatles.png" /><br><br>
-  </p>
+
 
    </body>
 </html>
