@@ -1,16 +1,9 @@
 title: More Advanced Work with Lists
 {
 
-heading: Lists for Data Science
+heading: Lists for Data Science and List Mutation
 resource: Data Science 101 [/bjc-r/cur/programming/lists/hof/combining-all-the-items-of-a-list.html]
-
-
-heading: List Mutation
 resource: Mutation of Variables [/bjc-r/cur/programming/lists/mutation/mutate-vars.html]
 resource: Swap Two List Values [/bjc-r/cur/programming/lists/intro/swap-two-list-values.html]
-
-
-  resource: Submit on Moodle [/bjc-r/cur/programming/guides/submit-on-moodle.html]
-
-
+resource: Submit on Moodle [/bjc-r/cur/programming/guides/submit-on-moodle.html]
 }
