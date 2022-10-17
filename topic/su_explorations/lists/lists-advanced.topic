@@ -1,0 +1,19 @@
+title: More Advanced Work with Lists
+{
+
+heading: Lists for Data Science
+resource: Data Science 101 [/bjc-r/cur/programming/lists/hof/combining-all-the-items-of-a-list.html]
+
+heading: Composition of Higher Order Functions
+resource: Composing higher order functions to solve more complicated problems [/bjc-r/cur/programming/lists/hof/composing-higher-order-functions-to-solve-more-complicated-problems.html]
+resource: More on composition of higher order functions [/bjc-r/cur/programming/lists/hof/more-on-composition-of-higher-order-functions.html]
+
+heading: List Mutation
+resource: Mutation of Variables [/bjc-r/cur/programming/lists/mutation/mutate-vars.html]
+resource: Swap Two List Values [/bjc-r/cur/programming/lists/intro/swap-two-list-values.html]
+
+
+  resource: Submit on Moodle [/bjc-r/cur/programming/guides/submit-on-moodle.html]
+
+
+}
