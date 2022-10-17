@@ -2,16 +2,7 @@
 <html>
 	<head>
 		<!-- put the following in exactly --><script src="/bjc-r/llab/loader.js"></script><title>Swap Two List Values</title>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176402054-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-176402054-1');
-</script>
-</head>
+	</head>
 	<body>
 
 		We want to make a block that swaps two items in a list.  The block takes two numbers, representing positions of items in the list, and the list itself as its inputs; it swaps the positions of those items in the list.
@@ -76,11 +67,7 @@
 		<p>
 			The <code>
 				replace item</code>
-			blocks in this script are an example of a new technique, list <em>mutation</em>--changing items in an existing list, instead of creating a new list the way <code>
-				map</code>
-			and <code>
-				keep</code>
-			do. As in this example, mutation can be more efficient than recopying the entire list except for the two changed items.  On the other hand, mutation introduces the possibility of new kinds of bugs that can't happen with <em>functional</em> programming, the technique we've been using with lists until now.  If two parts of a large program are using the same list for different purposes, and one part mutates the list, the other part will get confused.  That's why we showed you functional programming first, and why functional programming should be your first instinct.
+			blocks in this script are an example of a new technique, list <em>mutation</em>--changing items in an existing list, instead of creating a new list. As in this example, mutation can be more efficient than recopying the entire list except for the two changed items.  On the other hand, mutation introduces the possibility of new kinds of bugs that can't happen with <em>functional</em> programming, the technique we've been using with lists until now.  If two parts of a large program are using the same list for different purposes, and one part mutates the list, the other part will get confused.  That's why we showed you functional programming first, and why functional programming should be your first instinct.
 		</p>
 		<p>
 			We <em>have</em> used mutation before with non-list data; for example, the <code>
@@ -89,7 +76,7 @@
 				i</code>
 			each time through the loop. Mutation isn't so dangerous in that context, because that variable exists only inside the <code>
 				for</code>
-			loop, there's no way another part of the program can be relying on an old value. Mutating <em>global</em> variables does have the same risk, though, which is why we've been saying that script variables are a better choice when possible. But a game board is an example of a value that's unavoidably both global and mutable.  We'll go into this further in the next lesson.
+			loop, there's no way another part of the program can be relying on an old value. Mutating <em>global</em> variables does have the same risk, though, which is why we've been saying that script variables are a better choice when possible. But a game board is an example of a value that's unavoidably both global and mutable.  We'll go into this further in the next lab.
 		</p>
 	</body>
 </html>
