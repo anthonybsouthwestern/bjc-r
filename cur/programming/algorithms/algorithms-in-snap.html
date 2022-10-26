@@ -12,8 +12,12 @@
   gtag('config', 'UA-176402054-1');
 </script>
 </head>
+	
+	
+	
 	<body>
-		Using <a class="run" href="../../../prog/algorithms/algorithms-framework-new.xml" target="_blank">the framework provided</a>, implement a Snap<em>!</em> block in the <strong>Unsorted</strong> sprite that finds a number in a list of unsorted numbers using the strategy that we discussed. The block should accept the target number (the "needle") and a full list of numbers (the "haystack") as arguments, and return the index of the number's position in the list. What was the strategy we discussed for unsorted lists, and how could you implement it? Two empty blocks are provided for you, one for unsorted and the other for sorted lists.  Fill in the implementation for each block. Using the framework, determine how their running time changes as the list size increases. Which is faster for a list of size 5? 50? 500? 5000? Why do you think this is?
+		If you want to look for a value in a collection of items, how do you approach it? Does the size of the collection matter? Does it matter what type of items they are? Does it matter if they're in some sort of order? How efficient or inefficient is your approach? 
+
 		<br>
 		<br>
 		<br>
@@ -22,6 +26,18 @@
         <br /><br />
         Unsorted data doesn't give you a lot to work with. Your knowledge is limited to strictly the most obvious information: the numbers themselves. This makes strategy somewhat non-existent; the best you can do, on average, is to simply start at the beginning and search through the list one by one. This approach can become incredibly slow if we're dealing with a lot of data, but is actually fairly quick when working with smaller amounts of data. In addition, the block is relatively straightforward to create and doesn't require the data to be put into a particular order to work. The block should return the location of the number in the list, or -1 if the number doesn't exist in the list.
 		<br>
+		
+			<br>
+		<br>
+		<br>
+		
+		
+		Using <a class="run" href="../../../prog/algorithms/algorithms-framework-new.xml" target="_blank">the framework provided</a>, implement a Snap<em>!</em> block in the <strong>Unsorted</strong> sprite that finds a number in a list of unsorted numbers using the strategy described above. The block should accept the target number (the "needle") and a full list of numbers (the "haystack") as arguments, and return the index of the number's position in the list.  Then fill in the implementation of the described strategy below for a sorted list. Consider how the running time changes as the list size increases. Which is faster for a list of size 5? 50? 500? 5000? Why do you think this is?
+			
+			<br>
+		<br>
+		<br>
+		
 		<h3>Searching Sorted Data</h3>
         <img src="/bjc-r/img/list/find-sorted.png" alt="Find Number In Sorted List" align="left" />
         <br />
