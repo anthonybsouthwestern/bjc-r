@@ -19,7 +19,8 @@ learning-goal: Hiding algorithmic details behind a layer of abstraction makes it
 
   // forum: Trash or Treasure? [/bjc-r/cur/programming/algorithms/trash-or-treasure.html]
   // resource: (group work) Experiencing Algorithms [/bjc-r/cur/programming/algorithms/experiencing-algorithms.html]
-  resource: Algorithms in Snap<em>!</em> [/bjc-r/cur/programming/algorithms/algorithms-in-snap.html]
+  resource: A First Searching Algorithm in Snap<em>!</em> [/bjc-r/cur/programming/algorithms/algorithms-in-snap.html]
+  resource: Binary Search in Snap<em>!</em> [/bjc-r/cur/programming/algorithms/binary-search-in-snap.html]
   resource: Improving Our Number Finder [/bjc-r/cur/programming/algorithms/improving-our-number-finder.html]
   //resource: Too Many Blocks! [/bjc-r/cur/programming/algorithms/too-many-blocks.html]
 
