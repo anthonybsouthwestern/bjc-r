@@ -27,7 +27,7 @@ heading: Timing Experiments
   resource: Constant versus Linear [/bjc-r/cur/programming/algorithms/timing/constant-versus-linear.html]
   resource: A Distinct Difference [/bjc-r/cur/programming/algorithms/timing/a-distinct-difference.html]
   resource: Quadratic-Time [/bjc-r/cur/programming/algorithms/timing/quadratic-time.html]
-  resource: Logarithmic-Time [/bjc-r/cur/programming/algorithms/timing/logarithmic-time.html]
+//  resource: Logarithmic-Time [/bjc-r/cur/programming/algorithms/timing/logarithmic-time.html]
 
   resource: Submit on Moodle [/bjc-r/cur/programming/guides/submit-on-moodle.html]
 
