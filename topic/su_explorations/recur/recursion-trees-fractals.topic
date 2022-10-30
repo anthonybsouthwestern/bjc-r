@@ -20,7 +20,7 @@ heading: Trees in a Forest
     quiz: Self Test: Understanding <code>tree</code> Inputs [/bjc-r/cur/programming/recur/tree/selftest1.html]
     quiz: Self Test: What was Changed? [/bjc-r/cur/programming/recur/tree/treechange.html]
     resource: Vary Your Tree [/bjc-r/cur/programming/recur/tree/vary-your-tree.html]
-    resource: Random Tree [/bjc-r/cur/programming/recur/tree/random-tree.html]
+ //   resource: Random Tree [/bjc-r/cur/programming/recur/tree/random-tree.html]
 
 heading: Fractals
     resource: Snowflake [/bjc-r/cur/programming/recur/fractals/snowflake.html]
