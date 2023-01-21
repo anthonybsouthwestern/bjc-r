@@ -1,0 +1,27 @@
+title: Build Your Own Blocks
+
+{
+
+heading: Repeating commands
+  resource: Repeating commands [/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html]
+  quiz: Test yourself: Repeat [/bjc-r/cur/programming/intro/drawing/repeat-self-test.html]
+  resource: Drawing regular polygons [/bjc-r/cur/programming/loops/repeat-n/draw-regular-polygons-with-repeat.html]
+  quiz: Test yourself: Total turning [/bjc-r/cur/programming/intro/drawing/angles-self-test.html]
+  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?1]
+  resource: Draw a star? [/bjc-r/cur/programming/loops/repeat-n/draw-regular-star.html]
+  quiz: Test yourself: More on turning [/bjc-r/cur/programming/intro/drawing/angles-self-test-2.html]
+  resource: A new way to loop [/bjc-r/cur/programming/loops/for/introduction-to-for.html]
+  resource: The FOR block [/bjc-r/cur/programming/loops/for/for.html]
+  resource: Using the FOR block [/bjc-r/cur/programming/loops/for/using-for.html]
+
+
+heading: Making your own blocks
+  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?2]
+  resource: Making your first custom block [/bjc-r/cur/programming/functions/intro/tutorial-custom-blocks.html]
+  resource: Adding an input [/bjc-r/cur/programming/functions/intro/adding-a-simple-input.html]
+  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?3]
+  resource: Make a "draw polygon" block [/bjc-r/cur/programming/functions/make-a-draw-polygon-block.html]
+ 
+  resource: Submit on Moodle [/bjc-r/cur/programming/guides/export-and-submit-on-moodle.html]
+
+}
