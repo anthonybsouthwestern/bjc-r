@@ -2,6 +2,14 @@ title: Build Your Own Blocks
 
 {
 
+h2: Big Ideas
+big-idea: Explore Abstraction as it relates to Computer Science
+big-idea: Use elementary control structures
+
+h2: Activities
+learning-goal: Learn to use the movement and drawing commands in Snap<em>!</em>  to draw complex images and geometric shapes.
+learning-goal: Learn to use parameters to draw simple shapes.
+
 heading: Repeating commands
   resource: Repeating commands [/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html]
   quiz: Test yourself: Repeat [/bjc-r/cur/programming/intro/drawing/repeat-self-test.html]
