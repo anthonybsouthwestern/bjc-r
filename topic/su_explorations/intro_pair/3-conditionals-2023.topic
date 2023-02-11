@@ -10,7 +10,7 @@ h2: Activities
 learning-goal: Use the <code>if</code> block in simple blocks and in the context of a game.
 learning-goal: Use the <code>random</code> number block to create randomness in a game.
 learning-goal: Use boolean expressions.
-learning-goal: Create predicates
+learning-goal: Create and use predicates.
 
 
 heading: Conditional Blocks
