@@ -1,0 +1,18 @@
+title: Introduction to Lists
+{
+h2: Big Ideas
+ big-idea: Understanding lists
+
+h2: Goals
+learning-goal: Practice basic operations of lists.
+learning-goal: Consider space-time tradeoffs. 
+
+heading: Introduction to Lists
+   resource: Using the LIST block to make a list [/bjc-r/cur/programming/lists/hof/using-the-LIST-block-to-make-a-list.html]
+   resource: More blocks used with lists [/bjc-r/cur/programming/lists/hof/more-blocks-about-lists.html]
+   resource: Loop it Up! [/bjc-r/cur/programming/lists/hof/when-you-really-have-to-loop.html]
+ 
+ 
+resource: Submit on Moodle [/bjc-r/cur/programming/guides/export-and-submit-on-moodle.html]
+
+}
