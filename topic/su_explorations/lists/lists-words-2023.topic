@@ -1,0 +1,17 @@
+title: What can we do with lists of words?
+{
+h2: Big Ideas
+big-idea: Working with lists of words
+
+h2: Goals
+learning-goal: Applying actions using the for-each C block to lists of words
+
+heading: Lists of Words
+   resource: What good are lists?  [/bjc-r/cur/programming/lists/hof/what-good-are-lists.html]
+   resource: Transforming each item of a list [/bjc-r/cur/programming/lists/hof/transforming-each-item-of-a-list.html]
+   resource: Choosing some items from a list [/bjc-r/cur/programming/lists/hof/choosing-some-items-from-a-list.html]
+
+resource: Submit on Moodle [/bjc-r/cur/programming/guides/export-and-submit-on-moodle.html]
+
+
+}
