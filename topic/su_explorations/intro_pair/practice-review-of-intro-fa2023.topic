@@ -1,0 +1,25 @@
+title: Reviewing Booleans and If, Working with Multiple Sprites
+
+{
+h2: Big Ideas
+big-idea: Predicates
+big-idea: Multiple Sprites
+
+h2: Activities
+learning-goal: Practice with complex booleans
+learning-goal: Create a simple interaction between sprites
+
+heading: Practice with Booleans and If
+  resource: Practice with complex booleans [/bjc-r/cur/programming/conditionals/complex-booleans-practice.html]
+  resource: Keep your sprite in a box [/bjc-r/cur/programming/random/keep-sprite-in-box.html]
+
+heading: Message Passing and Multiple Sprites
+  resource: Understanding "Message" Passing [/bjc-r/cur/programming/concurrency/snap/more-message-passing.html]
+  quiz: Test Yourself: Different ways to broadcast [/bjc-r/cur/programming/concurrency/snap/quiz-different-ways-to-broadcast.html]
+  resource: Experiment with a short Snap<em>!</em> play [/bjc-r/cur/programming/concurrency/snap/snap-play-learn-broadcast.html]  
+  quiz: Test Yourself: Go Team! [/bjc-r/cur/programming/intro/snap/test-yourself-go-team.html]
+  resource: Create your own Snap<em>!</em> play [/bjc-r/cur/programming/concurrency/snap/snap-play-own-broadcast.html]  
+
+  resource: Submit on Moodle [/bjc-r/cur/programming/guides/export-and-submit-on-moodle.html]
+
+}
