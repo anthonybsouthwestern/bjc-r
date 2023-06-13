@@ -1,0 +1,28 @@
+title: More Reporters, Testing, and Abstraction
+{
+
+h2: Big Ideas
+big-idea: Explore Abstraction as it relates to Computer Science
+big-idea: Debugging
+
+h2: Activities
+learning-goal: Compose reporters
+learning-goal: Simplifying a complex script with custom blocks
+learning-goal: Debug some simple scripts
+learning-goal: Apply abstraction
+
+heading: More work with reporters
+  resource: The Max Block [/bjc-r/cur/programming/functions/review-max-block.html]
+  resource: Input types [/bjc-r/cur/programming/functions/input-types-new.html]
+  resource: Composition of Reporters [/bjc-r/cur/programming/functions/composition-of-reporters.html]
+  resource: Sum-thing's Up [/bjc-r/cur/programming/loops/sum-things-up-debug.html]
+
+heading: Custom blocks make code easier to understand
+  resource: Simplifying a tic-tac-toe board drawer using custom blocks [/bjc-r/cur/programming/functions/simplifying-a-tic-tac-toe-board-drawer-using-functions.html]
+ 
+heading: Abstraction
+  resource: Brick Wall [/bjc-r/cur/programming/abstraction/new-brick-wall.html]
+
+  resource: Submit on Moodle [/bjc-r/cur/programming/guides/export-and-submit-on-moodle.html]
+
+}
