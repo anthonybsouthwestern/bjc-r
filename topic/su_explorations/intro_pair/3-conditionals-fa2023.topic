@@ -1,0 +1,38 @@
+title: Conditionals
+
+{
+h2: Big Ideas
+big-idea: Explore Abstraction as it relates to Computer Science
+big-idea: Use elementary control structures
+
+h2: Activities
+learning-goal: Use the <code>if</code> block in simple blocks and in the context of a game.
+learning-goal: Use the <code>random</code> number block to create randomness in a game.
+learning-goal: Use boolean expressions.
+learning-goal: Create and use predicates.
+
+heading: Conditional Blocks
+  resource: Introduction: Why do we need conditionals? [/bjc-r/cur/programming/conditionals/conditionals-intro.html]
+  resource: Booleans [/bjc-r/cur/programming/conditionals/booleans.html] 
+  resource: If and If-else [/bjc-r/cur/programming/conditionals/if-and-if-else.html]
+  resource: Predict what happens! [/bjc-r/cur/programming/conditionals/predict.html]
+  resource: Blocks using if and if-else [/bjc-r/cur/programming/conditionals/if-else-examples.html]
+
+heading: Combining Booleans
+  resource: More complex boolean expressions [/bjc-r/cur/programming/conditionals/complex-booleans.html]
+  resource: Script Variables [/bjc-r/cur/programming/variables/scriptvar.html]
+  quiz: Self-test: Complex Booleans [/bjc-r/cur/programming/conditionals/complex-booleans-self-test.html]
+  resource: Leap Year? [/bjc-r/cur/programming/conditionals/dates/checking-for-leap-years.html]
+
+heading: Practice with Predicates
+  resource: Reporter Blocks [/bjc-r/cur/programming/functions/reporters.html]
+  resource: Practice: >= [/bjc-r/cur/programming/conditionals/predicates.html] // chop out relevant piees
+  resource: Solutions to >= [/bjc-r/cur/programming/conditionals/ge-soln.html]
+  resource: Practice: Between [/bjc-r/cur/programming/functions/predicates/predicates-make-a-between-block.html]
+
+heading: Number Guessing
+  resource: Number Guessing [/bjc-r/cur/programming/conditionals/number-guessing-game-v1-0.html]
+  resource: More number guessing [/bjc-r/cur/programming/conditionals/number-guessing-game-v2-0.html]
+
+resource: Submit on Moodle [/bjc-r/cur/programming/guides/export-and-submit-on-moodle.html]
+}
