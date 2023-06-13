@@ -1,0 +1,31 @@
+title: Build Your Own Blocks
+
+{
+h2: Big Ideas
+big-idea: Explore Abstraction as it relates to Computer Science
+big-idea: Use elementary control structures
+
+h2: Activities
+learning-goal: Learn to use the movement and drawing commands in Snap<em>!</em>  to draw complex images and geometric shapes.
+learning-goal: Learn to use parameters to draw simple shapes.
+
+heading: Repeating commands
+  resource: Repeating commands [/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html]
+  quiz: Test yourself: Repeat [/bjc-r/cur/programming/intro/drawing/repeat-self-test.html]
+  resource: Drawing regular polygons [/bjc-r/cur/programming/loops/repeat-n/draw-regular-polygons-with-repeat.html]
+  quiz: Test yourself: Total turning [/bjc-r/cur/programming/intro/drawing/angles-self-test.html]
+  resource: Draw a star? [/bjc-r/cur/programming/loops/repeat-n/draw-regular-star.html]
+  quiz: Test yourself: More on turning [/bjc-r/cur/programming/intro/drawing/angles-self-test-2.html]
+  resource: A new way to loop [/bjc-r/cur/programming/loops/for/introduction-to-for.html]
+  resource: The FOR block [/bjc-r/cur/programming/loops/for/for.html]
+  resource: Using the FOR block [/bjc-r/cur/programming/loops/for/using-for.html]
+
+
+heading: Making your own blocks
+  resource: Making your first custom block [/bjc-r/cur/programming/functions/intro/tutorial-custom-blocks.html]
+  resource: Adding an input [/bjc-r/cur/programming/functions/intro/adding-a-simple-input.html]
+  resource: Make a "draw polygon" block [/bjc-r/cur/programming/functions/make-a-draw-polygon-block.html]
+ 
+  resource: Submit on Moodle [/bjc-r/cur/programming/guides/export-and-submit-on-moodle.html]
+
+}
