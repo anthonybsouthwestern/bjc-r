@@ -27,6 +27,8 @@ heading: Combining Booleans
   resource: More complex boolean expressions [/bjc-r/cur/programming/conditionals/complex-booleans.html]
   resource: Script Variables [/bjc-r/cur/programming/variables/scriptvar.html]
   quiz: Self-test: Complex Booleans [/bjc-r/cur/programming/conditionals/complex-booleans-self-test.html]
+  resource: Leap Year? [/bjc-r/cur/programming/conditionals/dates/checking-for-leap-years.html]
+
 
 heading: Practice with Predicates
   resource: Reporter Blocks [/bjc-r/cur/programming/functions/reporters.html]
