@@ -1,0 +1,17 @@
+title: Drawing the Solar System
+
+{
+
+h2: Big Ideas
+big-idea: Work with multiple sprites
+big-idea: Use elementary control structures
+
+h2: Activities
+learning-goal: Make multiple sprites move in a controlled manner
+learning-goal: Practice using control structures 
+
+heading: Drawing the Solar System
+  resource: Multiple spirtes with different costumes [/bjc-r/cur/programming/concurrency/snap/planets.html]
+
+  resource: Submit on Moodle [/bjc-r/cur/programming/guides/export-and-submit-on-moodle.html]
+}
