@@ -11,7 +11,8 @@ learning-goal: Make multiple sprites move in a controlled manner
 learning-goal: Practice using control structures 
 
 heading: Drawing the Solar System
-  resource: Multiple spirtes with different costumes [/bjc-r/cur/programming/concurrency/snap/planets.html]
+  resource: Multiple sprites with different costumes [/bjc-r/cur/programming/concurrency/snap/planets.html]
+  resource: Planetary orbits [/bjc-r/cur/programming/concurrency/snap/orbits.html]
 
   resource: Submit on Moodle [/bjc-r/cur/programming/guides/export-and-submit-on-moodle.html]
 }
