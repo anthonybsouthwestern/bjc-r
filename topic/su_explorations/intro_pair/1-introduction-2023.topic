@@ -18,11 +18,11 @@ learning-goal: Learn to use the mouse to move sprites around the screen.
 learning-goal: Make a Kaleidoscope
 
 heading: Introduction to Snap<em>!</em>
-  resource: Introduction to Pair Programming [/bjc-r/cur/programming/guides/pair-programming-intro.html]
+//  resource: Introduction to Pair Programming [/bjc-r/cur/programming/guides/pair-programming-intro.html]
   resource: Welcome to Snap<em>!</em> [/bjc-r/cur/programming/intro/snap/welcome-to-snap2.html]
   resource: Overview of the Window [/bjc-r/cur/programming/intro/snap/exploring-snap-overview-of-window.html]
   resource: Blocks [/bjc-r/cur/programming/intro/snap/exploring-snap-blocks.html]
-  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?1]
+//  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?1]
   resource: Scripts [/bjc-r/cur/programming/intro/snap/exploring-snap-scripts.html]
   resource: Reporters [/bjc-r/cur/programming/intro/sprites/sprites-reporters.html]
 
@@ -36,7 +36,7 @@ heading: Kaleidoscope
   resource: Follow that Mouse! [/bjc-r/cur/programming/loops/forever/follow-that-mouse.html]
   
   resource: Forever and a Day [/bjc-r/cur/programming/loops/forever/forever-and-a-day.html]
-  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?2]
+//  resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?2]
   quiz: We Won't Test You Forever [/bjc-r/cur/programming/loops/forever/forever-self-test.html]
   
   resource: Kaleidoscope [/bjc-r/cur/programming/intro/drawing/kaleidoscope-small.html]
