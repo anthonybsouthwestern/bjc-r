@@ -4,7 +4,7 @@ title: Welcome to Snap<em>!</em>
 h2: Big Ideas
 big-idea: Explore abstraction through Snap<em>!</em> blocks as it relates to Computer Science (CS)
 big-idea: Explore sequential programming
-big-idea: Understand and analyze some of the impact of the internet on our culture
+//big-idea: Understand and analyze some of the impact of the internet on our culture
 
 //   video: Video Lecture: Abstraction [https://coursesharing.org/courses/6/lectures/7]
 //  reading: Blown To Bits: Chapter 1 [http://www.bitsbook.com/wp-content/uploads/2008/12/chapter1.pdf]
@@ -13,7 +13,7 @@ big-idea: Understand and analyze some of the impact of the internet on our cultu
 h2: Activities
 learning-goal: Familiarize yourself with the Snap<em>!</em> interface
 learning-goal: Make a Snap<em>!</em> account to save and load projects
-learning-goal: Make a sprite sing
+//learning-goal: Make a sprite sing
 learning-goal: Learn to use the mouse to move sprites around the screen.
 learning-goal: Make a Kaleidoscope
 
